@@ -1,0 +1,53 @@
+Here’s a README template tailored for evaluating the Homepage and Contact Us functionality of the OpenCart demo e-commerce website:
+________________________________________
+Homepage and Contact Us Functionality Testing - OpenCart Demo
+Overview
+This Readme provides details for evaluating the Homepage and Contact Us functionality on the OpenCart demo e-commerce website (AUT). The primary objectives are to assess the functionality, performance, and usability of these features.
+Demo Website
+OpenCart Demo
+Objectives
+•	Functional Testing: Ensure that the Homepage and Contact Us features operate as expected.
+•	Usability Testing: Evaluate the user experience related to the Homepage and Contact Us features.
+Testing Tasks
+1. Functional Testing
+Homepage Links:
+•	Verify that all links on the homepage navigate to the correct pages.
+Contact Us Feature:
+•	Test the Contact Us form by submitting inquiries and verifying that they are processed correctly.
+•	Check if the Contact Us page displays information (e.g., address, phone number) correctly.
+2. Usability Testing
+Navigation:
+•	Evaluate the ease of navigation through the homepage and Contact Us sections of the website.
+Information Clarity:
+•	Assess the clarity and accessibility of information on the homepage and Contact Us page.
+User Experience:
+•	Provide feedback on the overall user experience related to the Homepage and Contact Us functionality, including ease of use and accessibility.
+Test Cases
+Functional Testing
+Homepage Links:
+Test Case 1:
+•	Action: Click on each link on the homepage and verify the destination page.
+•	Expected Result: All links should direct to the correct pages without errors.
+Contact Us Feature:
+Test Case 2:
+•	Action: Fill out the Contact Us form with valid information and submit it.
+•	Expected Result: The form should be submitted successfully, and a confirmation message should be displayed.
+Test Case 3:
+•	Action: Check if the Contact Us page displays contact details (e.g., address, phone number) correctly.
+•	Expected Result: The information should be accurate and properly formatted.
+Usability Testing
+Navigation:
+Test Case 4:
+•	Action: Navigate through the homepage and Contact Us sections and report on ease of navigation.
+•	Expected Result: Navigation should be intuitive and straightforward.
+Information Clarity:
+Test Case 5:
+•	Action: Assess the readability and accessibility of information on the homepage and Contact Us page.
+•	Expected Result: Information should be clear and easily accessible.
+User Experience:
+Test Case 6:
+•	Action: Provide feedback on the overall user experience with the Homepage and Contact Us features.
+•	Expected Result: The user experience should be satisfactory, with any issues or suggestions noted.
+Feedback
+Please document any issues or observations during testing and provide detailed feedback on both functionality and usability.
+
